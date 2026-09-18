@@ -1,0 +1,5 @@
+# TEMPORAL DIRECTORIES 
+/tmp
+
+# Sensitive data file
+Data/apikeys.md
