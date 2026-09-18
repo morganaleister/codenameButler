@@ -6,5 +6,7 @@ mcpServers:
     command: npx
     args:
       - -y
-      - <your-mcp-server>
+      - "@modelcontextprotocol/server-filesystem"
+      - /home/jahari/Documents/Iguana Sea/codenameButler
     env: {}
+
